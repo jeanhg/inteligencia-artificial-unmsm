@@ -7,9 +7,18 @@
     "project": "CONTRAIDEA",
     "type": "clase",
     "materials": {
-      "informe": null,
-      "presentacion": null,
-      "ejemplo": null
+      "informe": {
+        "url": "semanas/semana-01/informe/informe.docx",
+        "label": "Ver informe"
+      },
+      "presentacion": {
+        "url": "semanas/semana-01/presentacion/presentacion.pdf",
+        "label": "Ver PPT"
+      },
+      "ejemplo": {
+        "url": "semanas/semana-01/ejemplo/main.ipynb",
+        "label": "Ver ejemplo práctico"
+      }
     }
   },
   {
