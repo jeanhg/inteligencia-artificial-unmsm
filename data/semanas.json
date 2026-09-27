@@ -1,0 +1,210 @@
+[
+  {
+    "week": 1,
+    "title": "Fundamentos de IA",
+    "area": "Fundamentos",
+    "summary": "Conceptos, historia, áreas, aprendizaje automático y niveles de IA.",
+    "project": "CONTRAIDEA",
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 2,
+    "title": "Agentes inteligentes",
+    "area": "Fundamentos",
+    "summary": "Conceptos, tipos, arquitectura, diseño y aplicaciones de agentes inteligentes.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 3,
+    "title": "Búsqueda en espacios de estados",
+    "area": "Búsqueda y juegos",
+    "summary": "Formulación de problemas, búsqueda ciega y búsqueda informada.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 4,
+    "title": "Juegos de estrategia",
+    "area": "Búsqueda y juegos",
+    "summary": "Juegos humano–máquina y algoritmos de estrategia.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 5,
+    "title": "Aprendizaje supervisado",
+    "area": "Machine Learning",
+    "summary": "Clasificación, regresión y modelos básicos con Python.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 6,
+    "title": "Aprendizaje no supervisado",
+    "area": "Machine Learning",
+    "summary": "Agrupamiento y algoritmos básicos con Python.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 7,
+    "title": "Aprendizaje por refuerzo",
+    "area": "Machine Learning",
+    "summary": "Fundamentos, aplicaciones, limitaciones y algoritmos de refuerzo.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 8,
+    "title": "Examen parcial",
+    "area": "Evaluación",
+    "summary": "Evaluación parcial del curso.",
+    "project": null,
+    "type": "evaluacion",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 9,
+    "title": "Fundamentos de Deep Learning",
+    "area": "Deep Learning",
+    "summary": "Redes neuronales artificiales y convergencia del error.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 10,
+    "title": "Redes neuronales convolucionales",
+    "area": "Deep Learning",
+    "summary": "CNN, convolución, pooling y arquitecturas clásicas.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 11,
+    "title": "Redes recurrentes y LSTM",
+    "area": "Deep Learning",
+    "summary": "RNN, LSTM, GRU y predicción de series temporales.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 12,
+    "title": "IA generativa y modelos de lenguaje",
+    "area": "IA generativa",
+    "summary": "Modelos generativos, transformers, GPT y agentes con API.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 13,
+    "title": "Redes generativas adversarias",
+    "area": "IA generativa",
+    "summary": "GAN, generación de imágenes, estilo y aumento de datos.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 14,
+    "title": "IA creativa y ética",
+    "area": "IA generativa",
+    "summary": "Aplicaciones creativas, marco legal, ética y futuro de la IA.",
+    "project": null,
+    "type": "clase",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 15,
+    "title": "Presentación de trabajos",
+    "area": "Proyecto",
+    "summary": "Presentación de proyectos y demostraciones.",
+    "project": null,
+    "type": "proyecto",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  },
+  {
+    "week": 16,
+    "title": "Examen final",
+    "area": "Evaluación",
+    "summary": "Evaluación final del curso.",
+    "project": null,
+    "type": "evaluacion",
+    "materials": {
+      "informe": null,
+      "presentacion": null,
+      "ejemplo": null
+    }
+  }
+]

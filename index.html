@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101c34">
+  <meta name="description" content="Repositorio académico de Inteligencia Artificial: investigaciones, presentaciones y ejemplos semanales de Ingeniería de Sistemas de la UNMSM.">
+  <title>Inteligencia Artificial · Repositorio académico UNMSM</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <script defer src="assets/main.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html" aria-label="Inicio del repositorio">
+        <span class="brand-mark">IA<span class="brand-dot">.</span></span>
+        <span class="brand-copy"><strong>Repositorio IA</strong><small>UNMSM · Ingeniería de Sistemas</small></span>
+      </a>
+      <nav class="top-nav" aria-label="Navegación principal">
+        <a href="#semanas">Semanas</a>
+        <a href="#acerca">Acerca del curso</a>
+        <a class="nav-github" href="https://github.com/jeanhg/inteligencia-artificial-unmsm" target="_blank" rel="noopener noreferrer">Ver GitHub <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <main id="contenido">
+    <section class="hero">
+      <div class="container hero-layout">
+        <div class="hero-copy">
+          <span class="eyebrow"><span class="live-dot"></span> PORTAFOLIO ACADÉMICO · 2026</span>
+          <h1>Explorar, investigar <span>y construir IA.</span></h1>
+          <p>Un espacio para documentar nuestro recorrido por la inteligencia artificial: investigaciones semanales, presentaciones académicas y demostraciones prácticas.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#semanas">Explorar semanas <span aria-hidden="true">↘</span></a>
+            <a class="button button-outline" href="semanas/semana-01/">Ver primera semana</a>
+          </div>
+        </div>
+        <aside class="hero-panel" aria-label="Información del repositorio">
+          <div class="panel-grid-lines" aria-hidden="true"></div>
+          <div class="panel-orbit orbit-outer" aria-hidden="true"></div><div class="panel-orbit orbit-inner" aria-hidden="true"></div>
+          <div class="panel-core" aria-hidden="true"><span>IA</span></div>
+          <div class="panel-label panel-label-top">INVESTIGACIÓN <span>↗</span></div>
+          <div class="panel-label panel-label-bottom">CÓDIGO + PROTOTIPOS <span>01—16</span></div>
+        </aside>
+      </div>
+    </section>
+    <section class="stats-band" aria-label="Resumen">
+      <div class="container stats-grid">
+        <div><strong id="stat-weeks">16</strong><span>semanas organizadas</span></div>
+        <div><strong id="stat-materials">0</strong><span>recursos publicados</span></div>
+        <div><strong id="stat-projects">1</strong><span>proyecto identificado</span></div>
+        <div><strong>3</strong><span>formatos de entrega</span></div>
+      </div>
+    </section>
+    <section id="semanas" class="section weeks-section">
+      <div class="container">
+        <div class="section-heading">
+          <div><span class="section-kicker">01 / CONTENIDO</span><h2>Bitácora de aprendizaje</h2><p>Selecciona una semana para consultar su tema y los materiales publicados.</p></div>
+          <span class="semester-pill">Programa de 16 semanas</span>
+        </div>
+        <div class="toolbar">
+          <label class="search-wrap"><span class="visually-hidden">Buscar por tema o semana</span><span aria-hidden="true">⌕</span><input id="week-search" type="search" placeholder="Buscar tema, proyecto o semana…" autocomplete="off"></label>
+          <label class="filter-wrap"><span class="visually-hidden">Filtrar por unidad</span><select id="area-filter"><option value="">Todas las áreas</option></select></label>
+        </div>
+        <p id="result-count" class="result-count" aria-live="polite"></p>
+        <div id="week-grid" class="week-grid" aria-live="polite"><p class="empty-state">Cargando semanas…</p></div>
+        <p id="load-error" class="error-message" hidden>No se pudo cargar la lista. Consulta las carpetas semanales desde GitHub.</p>
+      </div>
+    </section>
+    <section id="acerca" class="section about-section">
+      <div class="container about-grid">
+        <div><span class="section-kicker">02 / METODOLOGÍA</span><h2>De la teoría<br>al prototipo.</h2><p>El repositorio reúne la investigación académica y su aplicación: fundamentación teórica, comunicación de resultados y exploración técnica.</p></div>
+        <div class="deliverables">
+          <article><span class="deliverable-icon">01</span><div><h3>Informe</h3><p>Documento de investigación con desarrollo conceptual, fuentes y una propuesta de aplicación.</p></div></article>
+          <article><span class="deliverable-icon">02</span><div><h3>Presentación</h3><p>Diapositivas que sintetizan los hallazgos y facilitan la exposición del tema.</p></div></article>
+          <article><span class="deliverable-icon">03</span><div><h3>Ejemplo práctico</h3><p>Código fuente, instrucciones de ejecución o demostración, según cada semana.</p></div></article>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer"><div class="container footer-inner"><div><strong>IA<span class="brand-dot">.</span> UNMSM</strong><p>Proyecto académico estudiantil. Sitio no oficial de la universidad.</p></div><a href="https://github.com/jeanhg/inteligencia-artificial-unmsm" target="_blank" rel="noopener noreferrer">Código en GitHub ↗</a></div></footer>
+</body></html>
